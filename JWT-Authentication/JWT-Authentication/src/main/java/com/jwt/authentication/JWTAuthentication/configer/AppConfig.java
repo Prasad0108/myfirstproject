@@ -14,7 +14,7 @@ import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 
 @Configuration
 public class AppConfig {
-
+///////////////////////////////////////////////////////////
 //    @Bean
 //    public UserDetailsService userDetailsService() {
 //        UserDetails user = User.builder().username("abhi").password(passwordEncoder().encode("abc")).roles("ADMIN").build();
